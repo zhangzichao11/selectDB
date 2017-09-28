@@ -11,7 +11,7 @@ import java.sql.Statement;
 /**
  * 查询结果处理接口
  * 
- * @author zhangzichao
+ * @author 人淡如菊
  * @version 创建时间：2016-3-31 下午07:26:41
  */
 
